@@ -1,5 +1,3 @@
-<html>
-<center>
-<h1>Ramesh image</h1>
-</center>
-</html>
+<h1>Suresh image</h1>
+
+
